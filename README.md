@@ -7,7 +7,7 @@ Data Enthusiast and DevOps Practioner
 I am passionate about Data Engineering and DevOps, focusing on building scalable data pipelines, real-time processing systems, and automating workflows. I enjoy working with tools like Apache Kafka, Spark, Docker, and Jenkins, and have experience managing cloud infrastructure with AWS. My goal is to streamline workflows and create reliable, efficient systems.
 
 * 🌍  I'm based in Kathmandu , Nepal
-* 🖥️  See my portfolio at [Myportfolio](http://www.linkedin.com/in/pragati-chaudhary-24749b17a/)
+* 🖥️  See my portfolio at [Myportfolio](https://pragati9998.github.io/Portfolio/)
 * ✉️  You can contact me at [pragatichaudhary23@gmail.com](mailto:pragatichaudhary23@gmail.com)
 * 🧠  I'm learning Data Engineering and DevOps
 * 🤝  I'm open to collaborating on Interesting Projects
