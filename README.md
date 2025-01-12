@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pragati Chaudhary
 =========================================================================================================================================
 
-Data Enthusiast and DevOps Practioner
+Data Enthusiast
 -------------------------------------
 
 I am passionate about Data Engineering and DevOps, focusing on building scalable data pipelines, real-time processing systems, and automating workflows. I enjoy working with tools like Apache Kafka, Spark, Docker, and Jenkins, and have experience managing cloud infrastructure with AWS. My goal is to streamline workflows and create reliable, efficient systems.
