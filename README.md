@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Enthusiast
 -------------------------------------
 
-I am passionate about Data Engineering and DevOps, focusing on building scalable data pipelines, real-time processing systems, and automating workflows. I enjoy working with tools like Apache Kafka, Spark, Docker, and Jenkins, and have experience managing cloud infrastructure with AWS. My goal is to streamline workflows and create reliable, efficient systems.
+I am passionate about Data Engineering , focusing on building scalable data pipelines, real-time processing systems, and automating workflows. I enjoy working with tools like Apache Kafka, Spark, Docker, and Jenkins, and have experience managing cloud infrastructure with AWS. My goal is to streamline workflows and create reliable, efficient systems.
 
 * 🌍  I'm based in Kathmandu , Nepal
 * 🖥️  See my portfolio at [Myportfolio](http://www.pragatikumarchaudhary.com.np/)
