@@ -9,7 +9,7 @@ I am passionate about Data Engineering , focusing on building scalable data pipe
 * 🌍  I'm based in Kathmandu , Nepal
 * 🖥️  See my portfolio at [Myportfolio](http://www.pragatikumarchaudhary.com.np/)
 * ✉️  You can contact me at [pragatichaudhary23@gmail.com](mailto:pragatichaudhary23@gmail.com)
-* 🧠  I'm learning Data Engineering and DevOps
+* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  i'm Cool as i may not see 😁
 
