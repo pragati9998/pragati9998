@@ -11,7 +11,7 @@ I am passionate about Data Engineering , focusing on building scalable data pipe
 * ✉️  You can contact me at [pragatichaudhary23@gmail.com](mailto:pragatichaudhary23@gmail.com)
 * 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  i'm Cool as i may not see 😁
+* ⚡  My hobbies include hiking , reading novels , listening music , partying with friends 
 
 <a href="https://www.github.com/pragati9998" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pragati9998?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
