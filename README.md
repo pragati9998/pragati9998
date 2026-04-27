@@ -1,20 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pragati Chaudhary
 =========================================================================================================================================
 
-Data Enthusiast
--------------------------------------
-
-I am passionate about Data Engineering , focusing on building scalable data pipelines, real-time processing systems, and automating workflows. I enjoy working with tools like Apache Kafka, Spark, Docker, and Jenkins, and have experience managing cloud infrastructure with AWS. My goal is to streamline workflows and create reliable, efficient systems.
-
-* 🌍  I'm based in Kathmandu , Nepal
-* 🖥️  See my portfolio at [Myportfolio](http://www.pragatikumarchaudhary.com.np/)
-* ✉️  You can contact me at [pragatichaudhary23@gmail.com](mailto:pragatichaudhary23@gmail.com)
-* 🧠  I'm learning Data Engineering
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  My hobbies include hiking , reading novels , listening music , partying with friends 
-
-<a href="https://www.github.com/pragati9998" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pragati9998?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
